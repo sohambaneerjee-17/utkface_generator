@@ -48,8 +48,8 @@ utkface-dcgan-pytorch/
 If you want to download this repository and run the pre-trained model on your local machine to generate faces, follow these steps:
 1. Clone the Repository
 Bash
-git clone [https://github.com/sohambanneerjee-17/utkface-dcgan-pytorch.git](https://github.com/sohambanneerjee-17/utkface-dcgan-pytorch.git)
-cd utkface-dcgan-pytorch
+git clone https://github.com/sohambanneerjee-17/utkface_generator.git
+cd utkface_generator
 
 **2. Install Dependencies**
 Make sure you have Python and PyTorch installed, along with the required libraries:
