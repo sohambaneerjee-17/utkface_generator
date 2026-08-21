@@ -17,3 +17,5 @@ This project explores unsupervised representation learning using GANs. The model
 * Frameworks: PyTorch, Torchvision, NumPy
 * Visualization: Matplotlib
 * Environment:Google Colab (Cloud GPU) / Local Jupyter Notebook (Apple Silicon MPS support)
+##   Acknowledgments
+* **UTKFace Dataset:** Sourced and mirrored via Hugging Face community repositories. Original dataset creators: Zhifei Zhang, Yang Song, and Hairong Qi (*CVPR 2017*).
